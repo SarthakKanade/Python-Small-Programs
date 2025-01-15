@@ -4,7 +4,7 @@ This repository contains solutions to various Python programming problems, categ
 
 Basic Programs (1–30)
 	1.	Hello World - Prints “Hello, World!” to the console.
-	2.	User Greeting - Asks for the user’s name and prints a personalized greeting.
+        2.	User Greeting - Asks for the user’s name and prints a personalized greeting.
 	3.	Sum of Two Numbers - Prompts for two numbers and prints their sum.
 	4.	Simple Calculator - Performs addition, subtraction, multiplication, and division on two numbers.
 	5.	Swap Variables - Swaps two numbers without using a temporary variable.
