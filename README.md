@@ -6,7 +6,7 @@ Basic Programs (1–30)
 
 	1.	Hello World - Prints “Hello, World!” to the console.
  
-        2.	User Greeting - Asks for the user’s name and prints a personalized greeting.
+2.	User Greeting - Asks for the user’s name and prints a personalized greeting.
 	
 	3.	Sum of Two Numbers - Prompts for two numbers and prints their sum.
  
@@ -181,7 +181,7 @@ Advanced Programs (61–100)
  
 	86.	Sorting a List of Dictionaries - Sorts a list of dictionaries by a key.
  
-        87.	Method in Class: Adds a method greet to the Person class that prints a personalized greeting, e.g., “Hello, my name is <name>.”
+87.	Method in Class: Adds a method greet to the Person class that prints a personalized greeting, e.g., “Hello, my name is <name>.”
 	
 	88.	Constructor: Defines a Car class with a constructor to initialize attributes like make, model, and year, and displays these details.
  
