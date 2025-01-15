@@ -3,6 +3,7 @@ Python Assignments
 This repository contains solutions to various Python programming problems, categorized into Basic, Intermediate, and Advanced levels.
 
 Basic Programs (1–30)
+
 	1.	Hello World - Prints “Hello, World!” to the console.
  
         2.	User Greeting - Asks for the user’s name and prints a personalized greeting.
@@ -65,6 +66,7 @@ Basic Programs (1–30)
  
 
 Intermediate Programs (31–60)
+
 	31.	Factorial Using For Loop - Calculates the factorial of a number using a loop.
  
 	32.	Fibonacci Sequence - Prints the first n Fibonacci numbers iteratively.
@@ -126,6 +128,7 @@ Intermediate Programs (31–60)
  
 
 Advanced Programs (61–100)
+
 	61.	Class Basics - Implements a simple class with attributes and methods.
  
 	62.	Class Inheritance - Demonstrates inheritance in Python.
@@ -207,6 +210,7 @@ Advanced Programs (61–100)
  
 
 Modules & Libraries
+
 	101.	Import Math Module: Demonstrates usage of the math module to compute the square root, floor, and ceiling of a user-input number.
  
 	102.	Use Random Module: Utilizes the random module to select a random element from a given list.
@@ -229,6 +233,7 @@ Modules & Libraries
 
  
 Advanced Topics
+
 	111.	List Slicing: Demonstrates advanced list slicing techniques, such as reversing a list and skipping elements.
  
 	112.	Lambda & Map: Uses a lambda function with map to transform a list of numbers (e.g., multiplying each by 2).
